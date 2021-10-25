@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/facebook-comment/static/css/main.17bd6b28.chunk.css",
+    "main.js": "/facebook-comment/static/js/main.7b9d4b2d.chunk.js",
+    "main.js.map": "/facebook-comment/static/js/main.7b9d4b2d.chunk.js.map",
+    "runtime-main.js": "/facebook-comment/static/js/runtime-main.c9e96936.js",
+    "runtime-main.js.map": "/facebook-comment/static/js/runtime-main.c9e96936.js.map",
+    "static/js/2.d367c493.chunk.js": "/facebook-comment/static/js/2.d367c493.chunk.js",
+    "static/js/2.d367c493.chunk.js.map": "/facebook-comment/static/js/2.d367c493.chunk.js.map",
+    "static/js/3.51bf47d5.chunk.js": "/facebook-comment/static/js/3.51bf47d5.chunk.js",
+    "static/js/3.51bf47d5.chunk.js.map": "/facebook-comment/static/js/3.51bf47d5.chunk.js.map",
+    "index.html": "/facebook-comment/index.html",
+    "static/css/main.17bd6b28.chunk.css.map": "/facebook-comment/static/css/main.17bd6b28.chunk.css.map",
+    "static/js/2.d367c493.chunk.js.LICENSE.txt": "/facebook-comment/static/js/2.d367c493.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9e96936.js",
+    "static/js/2.d367c493.chunk.js",
+    "static/css/main.17bd6b28.chunk.css",
+    "static/js/main.7b9d4b2d.chunk.js"
+  ]
+}
